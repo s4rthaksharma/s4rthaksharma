@@ -1,4 +1,10 @@
-### Hi there 👋
+<pre>
+   ___              _                    
+  / _ )___  ___    (_)__  __ ______       
+ / _  / _ \/ _ \  / / _ \/ // / __/        
+/____/\___/_//_/_/ /\___/\_,_/_/             
+              |___/                       
+</pre>
 
 <!--
 **s4rthaksharma/s4rthaksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
